@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdu1234llah
 - 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ / webdeevelopment
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me s01451999@gmail.com
 
